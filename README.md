@@ -8,7 +8,7 @@ Search for any city and view its current weather information using live data fro
 ## 🌐 Live Demo
 
 🔗 **Live Website:**  
-
+https://binte-ibrahim.github.io/live-weather-forecast/
 
 🔗 **GitHub Repository:**  
 https://github.com/Binte-ibrahim/live-weather-forecast.git
